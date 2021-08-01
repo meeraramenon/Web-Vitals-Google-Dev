@@ -1,2 +1,5 @@
 # Web-Vitals-Google-Dev
 Improve your website with Web Vitals
+<p> Core Web Vitals are a set of field metrics that measure important aspects of real-world user experience on the web. Core Web Vitals includes metrics, as well as target thresholds for each metric, which help developers qualitatively understand whether the experience of their site is "good", "needs improvement", or is "poor". </p>
+<p>In 2020 the Core Web Vitals are three metrics: Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). Each metric measures a different aspect of user experience: LCP measures perceived load speed and marks the point in the page load timeline when the page's main content has likely loaded; FID measures responsiveness and quantifies the experience users feel when trying to first interact with the page; and CLS measures visual stability and quantifies the amount of unexpected layout shift of visible page content.</p>
+![image](https://user-images.githubusercontent.com/51214692/127763702-498cb0d2-9107-4a00-aa7f-f265c0a1ade1.png)
